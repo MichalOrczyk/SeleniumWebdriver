@@ -1,7 +1,9 @@
 <h1>Summary</h1>
 <p>The files posted here perform various operations using the Selenium Webdriver library and are written in Python.</p>
-<p><b>GoogleSearch.py</b> searches for the term in the browser, goes to the Wikipedia page and retrieves basic information about the term. <b>GoogleSearch_test.py</b> does the same thing, but returns information about whether the test passed or failed.</p>
-<p><b>GitHub_Login_Logout.py</b> logs you into GitHub and logs you out of it after a while. For the script to work properly, you must enter your GitHub login and password in the file. <b>GitHub_Login_Logout_test.py</b> does the same thing, but returns information about whether the test passed or failed.</p>
+<p><b>GoogleSearch.py</b> searches for the term in the browser, goes to the Wikipedia page and retrieves basic information about the term. </p><b>GoogleSearch_test.py</b> does the same thing, but returns information about whether the test passed or failed.</p>
+<p><b>GitHub_Login_Logout.py</b> logs you into GitHub and logs you out of it after a while. For the script to work properly, you must enter your GitHub login and password in the file.</p> 
+<p><b>GitHub_Login_Logout_test.py</b> does the same thing, but returns information about whether the test passed or failed.</p>
+<p><b>Search_hotel_test.py</b> opens a test website for booking hotels and reserves accommodation in a selected city for a specified number of people in a given period; then checks whether the prices of the booked accommodations match what is displayed on the website (using assert method).</p>
 
 <h1>Installation</h1>
 For scripts to work properly, the following are required:
